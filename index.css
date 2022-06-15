@@ -49,11 +49,11 @@
     margin-left: 100px;
     width: 40px;
     height: 30px;
-    margin-top: -80vh;
+    margin-top: -120vh;
 }
 #btn2{
     float: left;
-    margin-top: -80vh;
+    margin-top: -120vh;
     margin-left: -10px;
     background-color: rgb(87, 84, 84);
     border: 1px solid rgb(160, 158, 156);
@@ -68,7 +68,7 @@
     color: rgb(205, 236, 30) ;
 }
 .cart {
-    margin-top: -260px;
+    margin-top: -230px;
     float: right;
     margin-right: 60px;
     font-size: 35px;
@@ -169,6 +169,7 @@
      font-style: italic;
      font-family: 'Times New Roman', Times, serif;
      font-weight: bold;
+     color: aliceblue;
  }
  .txt1 h4{
      font-size: 15px;
