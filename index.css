@@ -49,11 +49,11 @@
     margin-left: 100px;
     width: 40px;
     height: 30px;
-    margin-top: -130vh;
+    margin-top: -120vh;
 }
 #btn2{
     float: left;
-    margin-top: -130vh;
+    margin-top: -120vh;
     margin-left: -10px;
     background-color: rgb(87, 84, 84);
     border: 1px solid rgb(160, 158, 156);
@@ -68,7 +68,7 @@
     color: rgb(205, 236, 30) ;
 }
 .cart {
-    margin-top: -230px;
+    margin-top: -180px;
     float: right;
     margin-right: 60px;
     font-size: 35px;
@@ -153,7 +153,7 @@
     border: 1px solid whitesmoke;
     width: 150vh;
     height: 63vh;
-    background-color: antiquewhite;
+    background-color: transparent;
     margin-left: 30vh;
 }
 .about_us img{
@@ -258,36 +258,7 @@
     box-shadow: 1px 1px 30px rgb(233, 227, 227), 0 0 35px rgb(172, 172, 238), 0 0 40px rgb(236, 193, 236);
 }
 
-/*.mn_1{
-    float: right;
-    color: antiquewhite;
-    font-size: 30px;
-    padding-right: 20px;
-    margin-top: -60px;
-}
-.mn_1:hover{
-  color: rgba(230, 198, 19, 0.884);
-}
-.mn_2{
-    float: right;
-    color: antiquewhite;
-    font-size: 30px;
-    padding-right: 20px;
-    margin-top: -60px;
-}
-.mn_2:hover{
-  color: rgba(230, 198, 19, 0.884);
-}
-.mn_3{
-    float: right;
-    color: antiquewhite;
-    font-size: 30px;
-    margin-top: -60px;
-    padding-right: 20px;
-}
-.mn_3:hover{
-  color: rgba(230, 198, 19, 0.884);
-}*/
+
 #products{
     margin-top: 18vh;
 }
